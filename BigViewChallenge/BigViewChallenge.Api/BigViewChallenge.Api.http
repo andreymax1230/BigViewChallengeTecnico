@@ -1,0 +1,6 @@
+@BigViewChallenge.Api_HostAddress = http://localhost:5031
+
+GET {{BigViewChallenge.Api_HostAddress}}/task/
+Accept: application/json
+
+###

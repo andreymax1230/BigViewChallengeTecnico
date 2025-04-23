@@ -1,0 +1,6 @@
+Insert into [User](Id, Name, Email, Active, CreatedAt, UpdatedAt)
+values(NEWID(),'Andrey Rodriguez', 'andrey@dev.com', 1, GETDATE(), GETDATE())
+insert into Product(Id, Name, Description, Price, ImageUrl, Active, CreatedAt, UpdatedAt)
+values(NEWID(), 'PC Gamer', 'PC Gamer', 50000, 'https://imgmedia.larepublica.pe/640x371/larepublica/original/2021/01/08/5ff868a18350c4561e35aa03.webp', 1, GETDATE(), GETDATE())
+insert into Product(Id, Name, Description, Price, ImageUrl, Active, CreatedAt, UpdatedAt)
+values(NEWID(), 'Tarjeta Grafica', 'Tarjeta Grafica RTX 5090', 750000, 'https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/graphic-cards/50-series/rtx-5090/geforce-rtx-5090-learn-more-og-1200x630.jpg', 1, GETDATE(), GETDATE())
