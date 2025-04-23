@@ -26,6 +26,6 @@ Se utiliza una consola de powershell para ejecutar el docker compose, ejemplo:
 * docker-compose up -d
 
 # Angular
-Se utiliza los siguientes comandos:
+Se utiliza los siguientes comandos para ejecutar el front:
 * npm install
 * ng serve
