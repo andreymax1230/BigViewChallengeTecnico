@@ -25,7 +25,7 @@ Se utiliza una consola de powershell para ejecutar el docker compose, ejemplo:
 * cd C:\Users\USER\source\repos\BigViewChallenge\BigViewChallenge.Api
 * docker-compose up -d
 
-* Angular
+# Angular
 Se utiliza los siguientes comandos:
 * npm install
 * ng serve
